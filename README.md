@@ -1,1 +1,1 @@
-# medium-docker-redis-js
+# medium-docker-redis
